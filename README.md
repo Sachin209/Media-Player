@@ -3,8 +3,8 @@
 Creating a Mobile app using Android Studio (Tutorial on Media Handling and Lab sheet on Android Services)
 
 
+<!--
 
-<--
 # E-Commerce webapp
 
 <p align='center'><img src='https://user-images.githubusercontent.com/39642646/147818627-02a4ef44-f2db-42f4-8f2b-4d769d91b839.jpg'/></p>
@@ -73,4 +73,4 @@ Copyright © 2021 [Karthik Nayak](https://github.com/karthik-nayak98).<br /> Thi
 project is [MIT](https://github.com/Karthik-Nayak98/e-commerce-app/blob/main/LICENSE)
 licensed. 
 
--->
+--!>
