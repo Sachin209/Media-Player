@@ -2,7 +2,7 @@
 
 Creating a Mobile app using Android Studio (Tutorial on Media Handling and Lab sheet on Android Services)
 
-> **More Info:** _Create a .env file to store the keys of firebase and stripe_
+> **More Info:** [Additional Lab sheet](https://drive.google.com/file/d/1TjYGuAuO8G3lwPvx42_dJRUueFwWstd1/view?usp=sharing)
 
 
 
